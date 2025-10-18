@@ -1,0 +1,12 @@
+node_modules/
+.env
+.DS_Store
+*.log
+dist/
+build/
+
+
+
+#vUG6xcfvRtkVYBi8
+
+#mongodb+srv://ashmitsinghak_db_user:vUG6xcfvRtkVYBi8@cluster0.0for5b1.mongodb.net/taskmanagement?retryWrites=true&w=majority&appName=Cluster0
